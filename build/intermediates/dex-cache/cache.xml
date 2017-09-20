@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_42a4f869ab82455e41b97af6341efc77d7b2d6c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="27b1926daf49f2a7c9033a0ae72a4e7176bfd38f">
+        <dex dex="/mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d3658655939b10e36f5b093645ef210a7a623780/classes.dex" />
+    </item>
+
+</items>

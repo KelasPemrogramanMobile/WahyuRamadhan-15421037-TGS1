@@ -1,0 +1,7 @@
+#Tue Sep 19 10:18:42 WIB 2017
+base.0=/mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_42a4f869ab82455e41b97af6341efc77d7b2d6c8
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d3658655939b10e36f5b093645ef210a7a623780/classes.dex
+base.1=/mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d3658655939b10e36f5b093645ef210a7a623780
+file.0=/mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_42a4f869ab82455e41b97af6341efc77d7b2d6c8/classes.dex

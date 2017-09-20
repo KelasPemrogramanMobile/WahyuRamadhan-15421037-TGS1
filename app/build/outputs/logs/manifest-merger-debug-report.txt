@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml
+application
+ADDED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/5c82f31b9cbca21c5f69ad110d4bcd19370f6ea4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /root/.android/build-cache/563c0189487e16a881401244adc59cf2377d28f7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /root/.android/build-cache/c8fe5477a2ff89c05d99277cd3eb0fb56e139899/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /root/.android/build-cache/07193cab0232f6ab15ee96ffd6cafd7d36a1e745/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /root/.android/build-cache/0f858db3288a507f39e75102ac4b40f3f54c0c11/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /root/.android/build-cache/5185fd72c7535baf1e0d9411a0b65a9cdfe26a05/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/c13bd7f2d53da3717be839940c804181b9e66c3a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/bc6737ea54238419b924a30ebdaecc107ccbeab8/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /root/.android/build-cache/1d7077e5e781484c3b0d3069a1f93eae4bee1af4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] /root/.android/build-cache/cf368ebef02eb3cf7e2f2bde854833ca1e00d192/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.ranma.prj1.prj1.MainActivity
+ADDED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/5c82f31b9cbca21c5f69ad110d4bcd19370f6ea4/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /root/.android/build-cache/563c0189487e16a881401244adc59cf2377d28f7/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /root/.android/build-cache/c8fe5477a2ff89c05d99277cd3eb0fb56e139899/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /root/.android/build-cache/07193cab0232f6ab15ee96ffd6cafd7d36a1e745/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /root/.android/build-cache/0f858db3288a507f39e75102ac4b40f3f54c0c11/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /root/.android/build-cache/5185fd72c7535baf1e0d9411a0b65a9cdfe26a05/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/c13bd7f2d53da3717be839940c804181b9e66c3a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/bc6737ea54238419b924a30ebdaecc107ccbeab8/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /root/.android/build-cache/1d7077e5e781484c3b0d3069a1f93eae4bee1af4/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] /root/.android/build-cache/cf368ebef02eb3cf7e2f2bde854833ca1e00d192/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/5c82f31b9cbca21c5f69ad110d4bcd19370f6ea4/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/7078DE0B78DDD048/Ngampus/Project_Kampus/AndroidStudio/PRJ1/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/5c82f31b9cbca21c5f69ad110d4bcd19370f6ea4/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /root/.android/build-cache/563c0189487e16a881401244adc59cf2377d28f7/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /root/.android/build-cache/c8fe5477a2ff89c05d99277cd3eb0fb56e139899/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /root/.android/build-cache/07193cab0232f6ab15ee96ffd6cafd7d36a1e745/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /root/.android/build-cache/0f858db3288a507f39e75102ac4b40f3f54c0c11/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /root/.android/build-cache/5185fd72c7535baf1e0d9411a0b65a9cdfe26a05/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/c13bd7f2d53da3717be839940c804181b9e66c3a/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/bc6737ea54238419b924a30ebdaecc107ccbeab8/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /root/.android/build-cache/1d7077e5e781484c3b0d3069a1f93eae4bee1af4/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/5c82f31b9cbca21c5f69ad110d4bcd19370f6ea4/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/5c82f31b9cbca21c5f69ad110d4bcd19370f6ea4/output/AndroidManifest.xml:26:9-47
